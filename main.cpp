@@ -1,9 +1,6 @@
-#include <iostream>
-
-using namespace std;
+#include <stdio.h>
 
 int main() {
-    cout << "Hello, World!" << endl;
-    //gg
+    printf("Georgi is a programmer and he loves to code.");
     return 0;
 }
